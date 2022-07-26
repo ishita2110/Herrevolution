@@ -47,7 +47,7 @@ margin-top: 30px;
     transition: all 1s ease;
 }
 .main{
-    background-image: url("image/hs.jpg");
+    background-image: url("image/hh.jpg");
     background-position:center ;
     background-size: cover;
     background-repeat: no-repeat;
@@ -61,7 +61,7 @@ margin-top: 30px;
 
   }
   .main .main_content h2{
-      color:peru;
+      color:yellow;
       font-size: 35px;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       font-weight: bolder;
@@ -71,7 +71,7 @@ margin-top: 30px;
   .main .main_content h2 span{
     font-size: 18px;
     opacity: 0.9;
-      color: brown;
+      color: white;
      
       font-weight: 600;
       line-height: 25px;
@@ -87,7 +87,7 @@ margin-top: 30px;
         margin:50px;
         padding: 10px 20px;
         background-color: pink;
-        color:purple ;
+        color:white ;
         font-weight: bold;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         border: 2px solid grey;
