@@ -47,7 +47,7 @@ margin-top: 30px;
     transition: all 1s ease;
 }
 .main{
-    background-image: url(../ecommerce2/image/housewive.jpg);
+    background-image: url(../image/housewive.jpg);
     background-position:center ;
     background-size: cover;
     background-repeat: no-repeat;
